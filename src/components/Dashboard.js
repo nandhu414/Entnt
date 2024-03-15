@@ -10,11 +10,8 @@ import './Dashboard.css'
 
 function Dashboard() {
   return (
-    <div className="bannerSection">
-    <div className="bannerBox">
-    <img src="assets/maxresdefault.jpg" alt="banner"/>
-  </div> 
-    </div>
+    <div>number of products : 3</div> 
+    <div>numbers of orders : 3</div>
   );
 }
 
