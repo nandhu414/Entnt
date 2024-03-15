@@ -5,7 +5,9 @@
     background-color: rgb(174, 62, 109);
     color:rgb(84, 163, 216);
   }
-  
+.bannerSection{
+    width= 100%;
+}
 .header-links-container {
     display: flex;
     justify-content: center;
